@@ -39,9 +39,7 @@ Este proyecto compartido tiene como objetivo:
 - Hardware development for computer science students (wearable computing)
 - Mathematics in information and data (visualisations)
 - Unix systems and open source
-- <s>Fortran, matlab,</s> Autocad for programmers. (3d printing oriented)
-- <s>UX/UI design</s>
-- <s>Software Quality</s> 
+- Autocad for programmers. (3D printing oriented)
 
 ## Contraste de plan de estudios
 
