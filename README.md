@@ -52,6 +52,8 @@ Este proyecto compartido tiene como objetivo:
 4. Los pull requests son para agregar nuevo un curso o aportaciones, y deberá tener la aceptación de los involucrados en el repositorio para poderlo integrar al repositorio. La aceptación será representado con los comentarios desplegados en la discusión del mismo pull request. 
 5. Cada curso tiene su readme particular con la propuesta de formato que debe seguir. En caso de sufrir modificaciones en cierta área, se podrá dar seguimiento mediante los commits. 
 
+_La manera más fácil de editar el proyecto y contribuir es con [prose.io](http://prose.io/)_
+
 ## Involucrados
 Estudiantes actuales, graduados e involucrados en la industria tecnológica.
 
